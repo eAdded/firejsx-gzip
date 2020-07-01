@@ -1,6 +1,6 @@
 {
   "name": "@firejsx/gzip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple, small live gzip plugin for FireJSX",
   "main": "index.js",
   "repository": "https://github.com/eAdded/firejsx-gzip.git",
