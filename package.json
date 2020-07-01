@@ -1,0 +1,17 @@
+{
+  "name": "@firejsx/gzip",
+  "version": "1.0.0",
+  "description": "Simple, small live gzip plugin for FireJSX",
+  "main": "index.js",
+  "repository": "https://github.com/eAdded/firejs-gzip",
+  "author": "Aniket Prajapati <prajapati.ani306@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "compression": "^1.7.4",
+    "firejsx": "^0.0.2"
+  },
+  "files": [
+    "index.js"
+  ]
+}
