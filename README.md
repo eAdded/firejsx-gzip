@@ -1,3 +1,5 @@
+> **DEPRECIATION WARNING** FireJSX-GZIP is now a native FireJSX feature. This plugin is no longer required
+
 # FireJSX GZIP
 
 Simple, small live gzip plugin for [FireJSX](https://github.com/Fire-JSX/FireJSX)
