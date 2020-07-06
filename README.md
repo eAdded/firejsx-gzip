@@ -1,4 +1,4 @@
-> **DEPRECIATION WARNING** FireJSX-GZIP is now a native FireJSX feature. This plugin is no longer required
+**DEPRECIATION WARNING** FireJSX-GZIP is now a `native` FireJSX feature. This plugin is no longer required
 
 # FireJSX GZIP
 
@@ -28,7 +28,7 @@ Add the following in the file.
 
 ```yaml
 plugins:
-  - @firejsx/gzip
+  - "@firejsx/gzip"
 ```
 
 All done. Now your stuff will be gziped when using dev server.
